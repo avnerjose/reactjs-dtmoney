@@ -22,7 +22,7 @@ createServer({
         {
           id: 2,
           title: "Aluguel",
-          type: "deposit",
+          type: "withdraw",
           category: "Dev",
           amount: 1100,
           createdAt: new Date("2021-02-17 11:00:00"),
