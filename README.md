@@ -8,14 +8,11 @@
 </h1>
 
 ## ⚡️ The Project
-  Message.Io is a simple ReactJS aplication where you can send a message and see it going live to the [backend](https://github.com/avnerjose/nodejs-message.io-backend) using
-  Socket.io and integration with Github authentication.
+DtMoney is a ReactJS application that can you to control your finances. You can add incomes and withdraws to control you month's expenses. 
   
 ## 🎯 Features
- - Live connection with websockets
- - Animations
- - React Project with [Vite](https://vitejs.dev/)
- - Toast notifications
+ - Fake API with MirageJS
+ - Modal with react-modal lib
   
 ## 🖥️ Used Tecnologies
  - [ReactJ](https://reactjs.org/)
